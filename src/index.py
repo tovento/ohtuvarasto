@@ -2,6 +2,7 @@ from varasto import Varasto
 
 
 def main():
+    """TODO"""
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
